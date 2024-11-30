@@ -1,8 +1,8 @@
 class EventOperations:
     def __init__(self):
         self.events = [
-            {"id": 1, "name": "Birthday Party", "date": "2024-12-01", "location": "New York"},
-            {"id": 2, "name": "Conference", "date": "2024-12-05", "location": "Los Angeles"}
+            {"id": 1, "name": "Birthday Party", "date": "2024-11-30", "location": "Vijayawada"},
+            {"id": 2, "name": "Dancing Party", "date": "2024-11-30", "location": "Hyderabad"}
         ]
 
     def view_events(self):
